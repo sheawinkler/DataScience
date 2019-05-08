@@ -1,2 +1,2 @@
 # DataScience
-My adventures in learning all about using and applying data science
+My adventures in applying analysis to data - you could call it data science
